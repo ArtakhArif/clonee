@@ -1699,7 +1699,7 @@ margin-left: -100px;
   
   }
 
-  @media only screen and (max-width: 405px){
+  @media only screen and (max-width: 406px){
   
     .btn {
       /* display: inline-block; */
@@ -1745,7 +1745,7 @@ margin-left: -100px;
     
     
   }  
-  @media only screen and (max-width: 404px){
+  @media only screen and (max-width: 403px){
   
     .btn {
       /* display: inline-block; */
@@ -1780,7 +1780,7 @@ margin-left: -100px;
       color: white;
       padding:10px 5px;
       margin: px 0;
-      margin-left: -8px;
+      margin-left: -10px;
       border-radius: 20px;
       /* margin-top: 100px; */
       /* border: 1px solid aqua; */
@@ -1791,7 +1791,7 @@ margin-left: -100px;
     
     
   }  
-  @media only screen and (max-width: 401px){
+  @media only screen and (max-width: 400px){
   
     .btn {
       /* display: inline-block; */
@@ -1826,7 +1826,7 @@ margin-left: -100px;
       color: white;
       padding:10px 5px;
       margin: px 0;
-      margin-left: -11px;
+      margin-left: -12px;
       border-radius: 20px;
       /* margin-top: 100px; */
       /* border: 1px solid aqua; */
@@ -1837,7 +1837,7 @@ margin-left: -100px;
     
     
   }  
-  @media only screen and (max-width: 397px){
+  @media only screen and (max-width: 399px){
   
     .btn {
       /* display: inline-block; */
@@ -1929,7 +1929,7 @@ margin-left: -100px;
     
     
   }  
-  @media only screen and (max-width: 391px){
+  @media only screen and (max-width: 393px){
   
     .btn {
       /* display: inline-block; */
@@ -1975,7 +1975,7 @@ margin-left: -100px;
     
     
   } 
-  @media only screen and (max-width: 388px){
+  @media only screen and (max-width: 390px){
   
     .btn {
       /* display: inline-block; */
@@ -2159,7 +2159,7 @@ margin-left: -100px;
     
     
   }  
-  @media only screen and (max-width: 379px){
+   @media only screen and (max-width: 379px){
   
     .btn {
       /* display: inline-block; */
@@ -2194,7 +2194,99 @@ margin-left: -100px;
       color: white;
       padding:10px 5px;
       margin: px 0;
-      margin-left: -35px;
+      margin-left: -33px;
+      border-radius: 20px;
+      /* margin-top: 100px; */
+      /* border: 1px solid aqua; */
+      transition: background 0.3s;
+      
+    
+    }
+    
+    
+  }  
+  @media only screen and (max-width: 401px){
+  
+    .btn {
+      /* display: inline-block; */
+      /* background: lightseagreen; */
+      color: white;
+      padding: 10px 5px;
+      margin: 50px 0;
+      border-radius: 20px;
+      border: 1px solid aqua;
+      transition: background 0.3s;
+      /* font-size: 20px; */
+      margin-left: 40px;
+    /* margin-top: 20px; */
+    }
+    .btnn {
+      /* display: inline-block; */
+      /* background: lightseagreen; */
+      /* justify-content: center; */
+      color: white;
+      padding: 10px 5px;
+      margin: 30px 20;
+      border-radius: 20px;
+      /* border: 1px solid aqua; */
+      transition: background 0.3s;
+      
+    
+    }
+  
+    .btnnn {
+      /* display: inline-block; */
+      /* background: lightseagreen; */
+      color: white;
+      padding:10px 5px;
+      margin: px 0;
+      margin-left: -11px;
+      border-radius: 20px;
+      /* margin-top: 100px; */
+      /* border: 1px solid aqua; */
+      transition: background 0.3s;
+      
+    
+    }
+    
+    
+  }  
+  @media only screen and (max-width: 404px){
+  
+    .btn {
+      /* display: inline-block; */
+      /* background: lightseagreen; */
+      color: white;
+      padding: 10px 5px;
+      margin: 50px 0;
+      border-radius: 20px;
+      border: 1px solid aqua;
+      transition: background 0.3s;
+      /* font-size: 20px; */
+      margin-left: 40px;
+    /* margin-top: 20px; */
+    }
+    .btnn {
+      /* display: inline-block; */
+      /* background: lightseagreen; */
+      /* justify-content: center; */
+      color: white;
+      padding: 10px 5px;
+      margin: 30px 20;
+      border-radius: 20px;
+      /* border: 1px solid aqua; */
+      transition: background 0.3s;
+      
+    
+    }
+  
+    .btnnn {
+      /* display: inline-block; */
+      /* background: lightseagreen; */
+      color: white;
+      padding:10px 5px;
+      margin: px 0;
+      margin-left: -10px;
       border-radius: 20px;
       /* margin-top: 100px; */
       /* border: 1px solid aqua; */
